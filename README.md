@@ -26,7 +26,7 @@ Functions Include
 * Modify (글 수정)
 * Permission (글 읽기, 수정 권한)
 
-Contect
+Contact
 -----
 >https://archan0621.github.io<br>
 >https://archanwriteup.tistory.com
